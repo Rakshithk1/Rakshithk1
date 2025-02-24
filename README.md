@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rakshith Kotian! 👋  
 
-<!--
-**Rakshithk1/Rakshithk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ CLI-Driven Projects 🚀
+All my projects are managed entirely through the **command line interface (CLI)**.  
+I use **Git CLI**, **Linux commands**, and **shell scripting** for deployment, automation, and version control.
 
-Here are some ideas to get you started:
+### 🔹 Key CLI Skills:
+- **Git CLI:** Repository management, commits, branches, pushing/pulling  
+- **Linux CLI:** Server setup, automation  
+- **AWS CLI:** Managing EC2, S3, and IAM roles via commands  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **💡 Fun fact:** Every project in my repositories was set up, modified, and deployed using the CLI—no GUI tools!  
+
+### 📌 My Repositories:
+- 🔹 [AWS-Linux](https://github.com/Rakshithk1/aws-linux) – AWS & Linux Projects  
+- 🔹 [Linux Commands](https://github.com/Rakshithk1/linux-cmds) – Essential Linux commands  
+- 🔹 [UI/UX Design](https://github.com/Rakshithk1/ui-ux-design) – My UI/UX projects  
+
+
+
