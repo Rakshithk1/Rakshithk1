@@ -1,20 +1,24 @@
-# Hi, I'm Rakshith Kotian! 👋  
+Hi, I'm Rakshith Kotian! 👋
 
-## 🖥️ CLI-Driven Projects 🚀
-All my projects are managed entirely through the **command line interface (CLI)**.  
-I use **Git CLI**, **Linux commands**, and **shell scripting** for deployment, automation, and version control.
+🖥️ Project Development & Automation
 
-### 🔹 Key CLI Skills:
-- **Git CLI:** Repository management, commits, branches, pushing/pulling  
-- **Linux CLI:** Server setup, automation  
-- **AWS CLI:** Managing EC2, S3, and IAM roles via commands  
+I specialize in developing and managing projects with a strong focus on automation, version control, and cloud infrastructure. My workflow emphasizes efficiency and precision, leveraging tools and scripting for deployment, environment setup, and system management.
 
-> **💡 Fun fact:** Every project in my repositories was set up, modified, and deployed using the CLI—no GUI tools!  
+🔹 Core Competencies:
 
-### 📌 My Repositories:
-- 🔹 [AWS-Linux](https://github.com/Rakshithk1/aws-linux) – AWS & Linux Projects  
-- 🔹 [Linux Commands](https://github.com/Rakshithk1/linux-cmds) – Essential Linux commands  
-- 🔹 [UI/UX Design](https://github.com/Rakshithk1/ui-ux-design) – My UI/UX projects  
+Version Control: Git (branching strategies, repository management, commit workflows)
 
+System & Server Management: Linux environment configuration, shell scripting, and server automation
 
+Cloud Infrastructure: AWS services (EC2, S3, IAM) with streamlined provisioning and management
+
+💡 Note: All of my repositories are developed and maintained using streamlined development workflows focused on the terminal environment.
+
+📌 Highlighted Repositories:
+
+AWS-Linux: Projects focused on cloud infrastructure and Linux system management
+
+Linux Commands: A curated collection of essential Linux command references and scripts
+
+UI/UX Design: Interface and experience design projects with attention to usability and function
 
